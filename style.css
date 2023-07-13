@@ -528,7 +528,7 @@ textarea {
     color: #d9d9d9;
     transition: color .3s; }
     .header__logo-container:hover {
-      color: #0062b9; }
+      color: #8b1a1a; }
   .header__logo-img-cont {
     width: 5rem;
     height: 5rem;
@@ -567,7 +567,7 @@ textarea {
     font-weight: 700;
     transition: color .3s; }
     .header__link:hover {
-      color: #0062b9; }
+      color: #8b1a1a; }
     @media only screen and (max-width: 56.25em) {
       .header__link {
         padding: 3rem 1.8rem;
@@ -614,7 +614,7 @@ textarea {
     letter-spacing: 2px;
     transition: color .3s; }
     .header__sm-menu-link a:hover {
-      color: #0062b9; }
+      color: #8b1a1a; }
   .header__sm-menu-link:first-child a {
     border-top: 1px solid #eee; }
   .header__sm-menu-link-last {
