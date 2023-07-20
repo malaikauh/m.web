@@ -1,0 +1,58 @@
+body{
+  background-color: ghostwhite;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {font-family: Century Gothic}
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 50px;
+}
+
+.top{
+display: flex;
+align-items: center;
+gap: 50px;
+}
+
+.arrow{
+  height: 150px;
+  cursor: pointer;
+}
+
+footer {font-family: Century Gothic;
+font-size:20px}
+
+.frame{
+  width: 564px;
+  height: 564px;
+  overflow: hidden;
+}
+
+.slider{
+  display: flex;
+  transition: all 1s ease;
+}
+
+.image{
+  width: 564px;
+  height: 564px;
+  object-fit: cover;
+}
+
+.bottom{
+  display: flex;
+  gap: 30px;
+}
+
+.button{
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  border: 1px solid white;
+  cursor: pointer;
+}
